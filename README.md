@@ -9,17 +9,12 @@ Create a text-synchronized "video book" from an audio/video file and a plain-tex
 
 ### Perfect for:
 
-📺 YouTube Creators - Transform your podcasts, interviews, or spoken content into engaging visual videos with automatic word highlighting. No more static audio-only content!
-
-📚 Educational Content Makers - Turn lectures, tutorials, or educational audio into professional-looking video lessons. Students can follow along visually while listening.
-
-🌍 Language Learning - Create immersive language learning videos where learners can see and hear each word simultaneously. Perfect for pronunciation practice and reading comprehension.
-
-🎤 Content Creators - Generate beautiful karaoke-style videos from any speech or narration. Ideal for audiobooks, storytelling, or motivational content.
-
-📖 Accessibility - Make your audio content accessible to hearing-impaired audiences and improve comprehension for all viewers with synchronized visual text.
-
-🎬 Video Production - Automatically generate professional subtitles and transcriptions with precise timing. Save hours of manual work!
+- YouTube Creators - Transform your podcasts, interviews, or spoken content into engaging visual videos with automatic word highlighting. No more static audio-only content!
+- Educational Content Makers - Turn lectures, tutorials, or educational audio into professional-looking video lessons. Students can follow along visually while listening.
+- Language Learning - Create immersive language learning videos where learners can see and hear each word simultaneously. Perfect for pronunciation practice and reading comprehension.
+- Content Creators - Generate beautiful karaoke-style videos from any speech or narration. Ideal for audiobooks, storytelling, or motivational content.
+- Accessibility - Make your audio content accessible to hearing-impaired audiences and improve comprehension for all viewers with synchronized visual text.
+- Video Production - Automatically generate professional subtitles and transcriptions with precise timing. Save hours of manual work!
 
 The app handles the complex audio-to-text alignment using AI (Whisper), creates beautiful book-like pages, and outputs a polished video where each word lights up exactly when spoken - like a high-end teleprompter or karaoke system.
 
