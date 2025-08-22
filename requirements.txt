@@ -1,0 +1,16 @@
+# Core dependencies for Reading Video Maker
+# Python 3.9+
+
+# Stable Whisper (stable-ts)
+# Note: installed from GitHub
+git+https://github.com/jianfch/stable-ts.git
+
+# Video/image/audio stack
+opencv-python==4.9.0.80
+numpy==1.26.4
+Pillow==10.3.0
+moviepy==1.0.3
+imageio-ffmpeg==0.4.9
+
+# Optional but commonly helpful
+# tqdm>=4.65.0
