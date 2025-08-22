@@ -1,8 +1,13 @@
-# Reading Video Maker
+<p align="center">
+  <img width="400" height="106" alt="loggo" src="https://github.com/user-attachments/assets/a8939a4a-3a1c-43f3-a78e-1c95cd7b3ed5" />
+</p>
+
+<h2 align="center">Reading Video Maker</h2>
+
 
 Create a text-synchronized "video book" from an audio/video file and a plain-text transcript. The app aligns words to the audio, paginates the text to fit a configurable page, and renders a video with word highlighting.
 
-## Perfect for:
+### Perfect for:
 
 📺 YouTube Creators - Transform your podcasts, interviews, or spoken content into engaging visual videos with automatic word highlighting. No more static audio-only content!
 
@@ -21,14 +26,14 @@ The app handles the complex audio-to-text alignment using AI (Whisper), creates 
 <img width="902" height="730" alt="Screenshot" src="https://github.com/user-attachments/assets/469dc896-5097-4969-85db-dc6489fd08ec" />
 
 
-## Features
+### Features
 - Extract audio from video (or accept audio directly)
 - Align text to audio using stable-whisper (stable-ts)
 - Paginate text with automatic layout scaling
 - Render frames with word highlighting in sync with audio
 - Minimal Tkinter UI with progress logs and Stop control
 
-## Requirements
+### Requirements
 - Python 3.9+
 - FFmpeg available in PATH (on macOS typically via Homebrew)
 - Packages:
@@ -39,7 +44,7 @@ The app handles the complex audio-to-text alignment using AI (Whisper), creates 
   - numpy
   - imageio-ffmpeg (helps MoviePy find ffmpeg)
 
-## Installation
+### Installation
 ```bash
 # Recommended
 python3 -m venv .venv
@@ -55,7 +60,7 @@ On macOS, FFmpeg via Homebrew:
 brew install ffmpeg
 ```
 
-## Run the App
+### Run the App
 ```bash
 python3 main.py
 ```
@@ -64,7 +69,7 @@ If you hit Tkinter + MoviePy issues on macOS, try:
 pythonw main.py
 ```
 
-## Usage (GUI)
+### Usage (GUI)
 1. Choose input Audio/Video and Text (.txt)
 2. Optionally choose a TTF/OTF font and set output size/FPS
 3. Click "Build" to start
@@ -72,7 +77,7 @@ pythonw main.py
 
 The output file defaults to `final_video_book.mp4` in the project directory.
 
-## Tips
+### Tips
 - Text should match the narration reasonably well for best alignment quality
 - For better typography, specify a font file (e.g., `.ttf`)
 - On macOS the app forces SDL to headless mode to avoid conflicts with Tkinter
