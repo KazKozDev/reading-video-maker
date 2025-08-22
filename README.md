@@ -2,7 +2,7 @@
 
 Create a text-synchronized "video book" from an audio/video file and a plain-text transcript. The app aligns words to the audio, paginates the text to fit a configurable page, and renders a video with word highlighting.
 
-🎯 Perfect for:
+## Perfect for:
 
 📺 YouTube Creators - Transform your podcasts, interviews, or spoken content into engaging visual videos with automatic word highlighting. No more static audio-only content!
 
