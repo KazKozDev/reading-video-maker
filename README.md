@@ -72,11 +72,11 @@ The output file defaults to `final_video_book.mp4` in the project directory.
 - MoviePy import issues on macOS: install `imageio-ffmpeg` or run with `pythonw`
 - OpenCV writer fails: the app falls back to MJPG/AVI automatically
 
-## Project Structure (key files)
-- `main.py` — app entry with Tkinter UI and video builder
-- `LICENSE` — MIT License
-- `README.md` — this file
 
-## License
-MIT License. See `LICENSE`.
+---
 
+If you like this project, please give it a star ⭐
+
+For questions, feedback, or support, reach out to:
+
+[Artem KK](https://www.linkedin.com/in/kazkozdev/) | MIT [LICENSE](LICENSE) 
