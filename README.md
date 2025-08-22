@@ -18,6 +18,9 @@ Create a text-synchronized "video book" from an audio/video file and a plain-tex
 
 The app handles the complex audio-to-text alignment using AI (Whisper), creates beautiful book-like pages, and outputs a polished video where each word lights up exactly when spoken - like a high-end teleprompter or karaoke system.
 
+<img width="902" height="730" alt="Screenshot" src="https://github.com/user-attachments/assets/469dc896-5097-4969-85db-dc6489fd08ec" />
+
+
 ## Features
 - Extract audio from video (or accept audio directly)
 - Align text to audio using stable-whisper (stable-ts)
