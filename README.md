@@ -77,7 +77,7 @@ The output file defaults to `final_video_book.mp4` in the project directory.
 - For better typography, specify a font file (e.g., `.ttf`)
 - On macOS the app forces SDL to headless mode to avoid conflicts with Tkinter
 
-## Troubleshooting
+### Troubleshooting
 - "ffmpeg not found": install via Homebrew or ensure it’s in PATH
 - MoviePy import issues on macOS: install `imageio-ffmpeg` or run with `pythonw`
 - OpenCV writer fails: the app falls back to MJPG/AVI automatically
